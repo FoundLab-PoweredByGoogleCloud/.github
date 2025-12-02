@@ -1,175 +1,131 @@
 <div align="center">
-  <h1 style="font-size: 3em; font-weight: bold;">FoundLab</h1>
-  <h2>Infraestrutura de Confiança Computacional Auditável</h2>
-  <p><em>Uma startup do <strong>Google for Startups Cloud Program</strong>, operando com uma stack de alta performance para o setor financeiro.</em></p>
 
-  <div>
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=300&section=header&text=FOUNDLAB&fontSize=90&fontAlign=50&fontAlignY=40&desc=Infraestrutura%20de%20Confiança%20Auditável%20(ATI)&descAlign=50&descAlignY=65&descSize=25&animation=fadeIn&stroke=00C7B7" alt="FoundLab Banner" width="100%"/>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Thesis-2.0%20%7C%20Non--Custodial-blue?style=for-the-badge&logo=auth0&logoColor=white" alt="Thesis 2.0" />
+  <img src="https://img.shields.io/badge/Layer%200-Computational%20Trust-000000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Layer 0" />
+  <img src="https://img.shields.io/badge/Architecture-Zero--Persistence-critical?style=for-the-badge&logo=files&logoColor=white" alt="Zero Persistence" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/Protocol-Veritas%202.0-success?style=for-the-badge&logo=veritas&logoColor=white" alt="Veritas 2.0" />
+  <img src="https://img.shields.io/badge/Standard-W3C%20Verifiable%20Credentials-informational?style=for-the-badge&logo=w3c&logoColor=white" alt="W3C VCs" />
+  <img src="https://img.shields.io/badge/Compliance-BACEN%20%7C%20LGPD%20%7C%20SOX-blueviolet?style=for-the-badge&logo=gdpr&logoColor=white" alt="Compliance" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Powered%20By-Google%20Cloud%20Web3-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Accelerated%20By-NVIDIA%20Inception-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Inception" />
+  <img src="https://img.shields.io/badge/Deploy-Dedicated%20%2F%20VPC-orange?style=for-the-badge&logo=terraform&logoColor=white" alt="Dedicated VPC" />
+
+  <br />
+  <br />
+
+  <h3>Operational Alpha ($\Sigma\alpha$) • Compliance-as-Infrastructure • Privacy by Design</h3>
+
 </div>
 
-<div align="center">  
-  <a href="https://ibb.co/ccj8Mdky"><img src="https://i.ibb.co/ccj8Mdky/LOGO-OK1.png" alt="LOGO-OK1" border="0"></a>
-</div>  
+---
+
+## **I. A Tese FoundLab: Compliance-as-Infrastructure (Layer 0)**
+
+A FoundLab não se posiciona no saturado "Oceano Vermelho" das ferramentas RegTech. Somos os criadores da categoria **Infraestrutura de Confiança Auditável (ATI)**, atuando como a **Layer 0 de Confiança Computacional**.
+
+Nossa missão é resolver o **Paradoxo Regulatório**: o conflito entre o mandato de **retenção imutável** de registros de auditoria (BACEN/SOX/CVM) e a exigência de **exclusão sob demanda** de dados pessoais (LGPD/GDPR).
+
+A FoundLab transforma a conformidade de um passivo manual e reativo em um **ativo computacional verificável** e uma fonte de **Alpha Operacional ($\Sigma\alpha$)**.
+
+## **II. A Stack Umbrella: O Fosso Arquitetônico (Tríade da Confiança)**
+
+Nossa plataforma, a **Umbrella**, é a manifestação desta tese, atuando como a "Fábrica de Decisão" que envolve a IA **probabilística** com uma trilha de auditoria **determinística**. A defensibilidade reside na sinergia dos três pilares abaixo:
+
+### **1. Zero-Persistence Architecture (ZPA 2.0) — Segurança Radical**
+*   **Princípio Central:** O dado mais seguro é aquele que não existe.
+*   **Mecanismo:** Dados sensíveis (PII) são processados **exclusivamente em memória volátil (RAM)** dentro de contêineres *serverless* efêmeros (Google Cloud Run/GKE Sandbox).
+*   **Conformidade:** Cumpre a **LGPD (Minimização de Dados)** por *design arquitetônico*, eliminando arquitetonicamente o risco de vazamento de dados em repouso (*data-at-rest*).
+
+### **2. Protocolo Veritas 2.0 — Auditabilidade Absoluta (O Cartório Técnico)**
+*   **Pivô Estratégico:** A FoundLab migra de "processador efêmero de PII" para **"verificador não-custodial de VCs"**. O princípio canônico é: **"PII Nunca Toca a Infraestrutura"**.
+*   **Mecanismo de Prova:** Cada decisão gera um **Decision Evidence Object (DEO)**, selado como uma **Credencial Verificável (VC)** e assinada digitalmente (padrão W3C VCs).
+*   **Ledger WORM:** A prova (metadado não-PII) é armazenada em um **Ledger WORM (Write-Once, Read-Many)** (Google BigQuery), garantindo retenção imutável (**SOX/BACEN**).
+*   **Crypto-Shredding (Kill Switch):** Resolve o paradoxo: o cliente retém o controle da **Customer-Managed Encryption Key (CMEK)**. A destruição da CMEK torna o registro cifrado no WORM **permanentemente ilegível** (cumprindo **LGPD**) sem excluir o registro físico (cumprindo **SOX/BACEN**).
+
+### **3. Guardian AI & Umbrella (Inteligência Antifrágil)**
+*   **Função:** O **Umbrella** é o Orquestrador Cognitivo, atuando como *gateway* de governança e "Fábrica de Decisão". Ele gerencia o pipeline de sete estágios.
+*   **Orquestração Multi-Engine:** O Umbrella atua como roteador inteligente, usando **Google Gemini** para raciocínio abstrato e **NVIDIA NIMs (Inference Microservices)** para inferência de alta performance e baixa latência.
+*   **RAG Institucionalizado:** Mitiga "alucinações" ancorando as respostas da IA **exclusivamente em fontes de dados internas e vetadas** (RAG), garantindo relevância e prevenindo a exfiltração para modelos públicos.
+*   **Antifrágil:** O **Guardian AI** usa um **Critic-Loop** para aprender com **erros e correções humanas** (*Human-in-the-Loop*), transformando intervenções em "sinais de treinamento de alto valor" para realimentar e refinar modelos.
+
+## **III. Stack Tecnológico e Modelo de Soberania (Dedicated/VPC)**
+
+Nosso modelo de implantação padrão-ouro é o **Dedicated (VPC do Cliente)**, projetado para Bancos Tier 1, garantindo **soberania absoluta** sobre a infraestrutura e dados, conforme exigido pelo BACEN.
+
+| Camada / Componente | Tecnologia FoundLab / GCP | Função / Benefício Estratégico |
+| :--- | :--- | :--- |
+| **Computação Efêmera** | Google Cloud Run / GKE Sandbox (**gVisor**) | Permite a execução *stateless* e isola o código da IA do *kernel* do host, prevenindo *container escape*. |
+| **Infraestrutura como Código (IaC)** | **Terragrunt** / Terraform | Garante *deploy* rápido, repetível e auditável da ATI **diretamente na VPC do cliente**. |
+| **Custódia de Chaves** | **CMEK** (Customer-Managed Encryption Keys) / Cloud KMS/HSM | O cliente **cria e gerencia as chaves**, garantindo o "Kill Switch" regulatório. |
+| **Perímetro de Dados** | **VPC Service Controls (VPC-SC)** | Atua como um "firewall para as APIs do Google", bloqueando **arquitetonicamente o egresso de dados** (exfiltração) para fora do perímetro do cliente. |
+| **Conexão Segura** | **Private Service Connect (PSC)** | Conecta a VPC do cliente aos serviços de nuvem de forma **privada, unidirecional e não transitiva**, aderindo aos princípios Zero Trust. |
+| **Integração Legado** | **Anti-Corruption Layer (ACL)** | Atua como "tradutor" que isola o domínio moderno da FoundLab da dívida técnica dos sistemas *core banking* do cliente. |
+| **Parceiros Estratégicos** | **Google Cloud** e **NVIDIA** | Fornecem a fundação *serverless* (GCP) e a aceleração de inferência de IA (NIMs). |
+
+## **IV. Prova de Valor: O Alpha Operacional ($\Sigma\alpha$)**
+
+Nossa arquitetura *deep-tech* não é apenas defensável; ela gera retorno sobre o investimento (ROI) mensurável, validado em produção com nosso parceiro **Elitte Capital** (ecossistema BTG Pactual/Necton).
+
+| Métrica | Antes da FoundLab | Depois da FoundLab | Fator de Impacto |
+| :--- | :--- | :--- | :--- |
+| **Ciclo de Conformidade** | 21 Horas | **16 Minutos** | **Redução de 98,7%** (~78x Mais Rápido) |
+| **Taxa de Erro** | 42% | **2,5%** | **Redução de 94%** |
+
+### **Métrica North Star (NSM)**
+A FoundLab adota a **Retenção Líquida de Receita (NRR)** como a principal métrica de sucesso, com meta de NRR superior a **110%**, validando o modelo de infraestrutura "land-and-expand" que escala com o volume de transações auditadas pelo cliente.
+
+Compreendido. Para o *README* do GitHub, o banner de parcerias deve ser conciso, mas comunicar instantaneamente a profundidade do nosso *deep-tech moat* e a validação de Nível 1 que possuímos. Isso atende à expectativa de investidores e arquitetos que valorizam o rigor técnico e o ecossistema de suporte de elite.
+
+Estruturei a seção como um manifesto sobre a nossa **Liberdade Arquitetural**, que só é possível graças à aliança estratégica com os líderes de nuvem e IA.
 
 ---
 
-## Plataforma Umbrella: Análise de Portfólio com IA
+# **V. O Ecossistema de Suporte: Soberania e Aceleração**
 
-A **Plataforma IA** em questão, denominada Umbrella — Plataforma de Análise de Portfólio com IA**), é uma **plataforma inteligente de análise de documentos** projetada para transformar documentos não estruturados em *insights* acionáveis e confiáveis. Sua missão é capacitar analistas financeiros a se dedicarem à tomada de decisões estratégicas, enquanto a tecnologia gerencia a tarefa de dados com precisão e confiabilidade sem precedentes.
+A FoundLab se posiciona como um parceiro estratégico de infraestrutura, não um fornecedor avulso. Nossa plataforma é uma **Infraestrutura de Confiança Auditável (ATI)** construída para ambientes de missão crítica. A robustez e a defensibilidade da nossa arquitetura são validadas por parcerias de Nível 1, que garantem que operamos na vanguarda da computação em nuvem e da Inteligência Artificial.
 
-### Visão e Proposta de Valor
+## **Powered by Google Cloud Web3 | Accelerated by NVIDIA**
 
-A visão da FoundLab reside na **agilidade e exatidão** no cenário financeiro, onde analistas despendem muitas horas na extração e validação manual de dados de documentos complexos, como DREs e balanços. A plataforma aborda essa questão com um motor de análise inteligente, robusto e auto-verificável. Sua **proposta de valor** otimiza a análise de documentos com inovação e segurança, oferecendo:
+A sinergia entre o Google Cloud e a NVIDIA permite à FoundLab entregar uma infraestrutura de confiança auditável com performance e escalabilidade institucionais.
 
-* Um **pipeline multietapas** que transforma dados brutos em decisões informadas, desde o *parser* avançado até a síntese executiva, resultando em um veredito claro e próximos passos objetivos.
-* **Privacidade por Design**, garantindo a proteção de informações sensíveis através da **zero persistência de documentos sensíveis**, processando dados exclusivamente em memória e descartando-os após o uso. A retenção é limitada a metadados não sensíveis para rastreabilidade e transparência.
-* **Resiliência Antifrágil**, com uma arquitetura que não apenas resiste a falhas, mas se torna mais robusta sob estresse, utilizando mecanismos como *throttling*, *healthchecks* contínuos e *retries* automáticos. Há também um *fallback* de modelo/infra, incluindo uso de GPU para cargas pesadas.
-* **Auditabilidade Total**, rastreando e verificando cada etapa do processo através de um **DecisionID** exclusivo para cada análise, logs detalhados e pacotes de auditoria com carimbo de tempo.
-* **Integração Simples** via API robusta (REST e GraphQL), exportação em formatos como CSV, PDF e JSON, e opções *white-label* para personalização.
+### **1. Google Cloud Platform (GCP): A Base Inabalável**
 
-### Como Funciona: Pipeline de Processamento de Documentos
+O Google Cloud é a fundação da nossa ATI. Nossa arquitetura não está apenas *construída sobre* o GCP; ela é uma **habilitadora estratégica** para o Google no setor financeiro regulado.
 
-A FoundLab opera através de um pipeline institucional robusto e altamente eficiente para o processamento de documentos digitais. Esse pipeline é composto por estágios multifacetados:
+| Tecnologia Central (GCP) | Função Estratégica na FoundLab |
+| :--- | :--- |
+| **Arquitetura Serverless-First** | Utilizamos **Google Cloud Run** e **GKE** para microsserviços *stateless* e execução efêmera, sendo o Cloud Run o principal viabilizador da política de Zero-Persistence. |
+| **Ledger de Auditoria Imutável** | O Protocolo Veritas 2.0 persiste a prova criptográfica em **BigQuery WORM** (Write-Once, Read-Many), usando `deletion_protection`, o que é o repositório imutável para a trilha de auditoria. |
+| **Soberania de Perímetro** | A implantação Dedicated utiliza **VPC Service Controls (VPC-SC)**, que atua como um "firewall para as APIs do Google", bloqueando arquitetonicamente a exfiltração de dados no nível da infraestrutura da nuvem, mesmo que credenciais sejam roubadas. |
+| **Isolamento de Carga de Trabalho** | O código de IA (considerado "não confiável") é isolado usando **GKE Sandbox (gVisor)**, prevenindo *container escapes* e explorações de *kernel*. |
+| **Conexão Segura (Zero Trust)** | Usamos **Private Service Connect (PSC)** para garantir que o tráfego sensível entre serviços ocorra de forma privada, **unidirecional e não transitiva**, pela rede *backbone* do Google, sendo superior ao VPC Peering. |
+| **Kill Switch Regulatório** | O cliente utiliza **Cloud KMS (CMEK/HSM)** para gerenciar suas chaves de criptografia, permitindo o *Crypto-Shredding* (destruição lógica do dado sem violar o WORM). |
 
-1. **Ingestão:** Recebimento e incorporação de documentos de diversas proveniências, com controle de qualidade para garantir a fidelidade dos dados.
-2. **Parsing:** Decomposição da estrutura do documento, identificando e categorizando elementos como parágrafos, títulos, listas e tabelas. Para documentos não estruturados, pode envolver reconhecimento de padrões e IA para inferir a estrutura lógica.
-3. **Extração:** Identificação e isolamento de informações-chave e entidades relevantes, utilizando técnicas como Reconhecimento Óptico de Caracteres (OCR) para imagens/documentos digitalizados, Processamento de Linguagem Natural (PLN) e algoritmos de aprendizado de máquina.
-4. **Validação:** Verificação rigorosa da qualidade e conformidade dos dados extraídos com regras de negócios predefinidas e critérios de integridade.
-5. **Pontuação (Score):** Atribuição de um valor ou nível de relevância a cada documento e às informações extraídas, com base em critérios como completude, consistência e conformidade.
-6. **Geração de Evidências (Veritas):** Criação de um registro imutável de cada etapa do processo (ingestão, *parsing*, extração, validação) com carimbos de tempo e *hashes* criptográficos, garantindo rastreabilidade e transparência.
-7. **Identidade Reputacional (SDID):** Geração de um perfil abrangente para cada documento, refletindo sua origem, histórico de processamento e confiabilidade intrínseca, atuando como um selo de qualidade dinâmico.
+### **2. NVIDIA: A Aceleração da IA Auditável**
 
-A plataforma lida com **documentos em PDF** (extração de texto e metadados), **imagens** (com OCR avançado) e **arquivos HTML** (extraindo informações estruturadas). A força da FoundLab reside na sua capacidade de **integrar e normalizar dados** de diversas fontes, padronizando-os para análise, otimizando fluxos de trabalho e aprimorando a tomada de decisões.
+A FoundLab é parceira do **NVIDIA Inception Program**. Nossa arquitetura adota uma estratégia de computação híbrida, otimizando custo e desempenho para cargas de trabalho de IA no setor financeiro.
 
-### Lógica de IA Avançada e Motores de IA
+*   **Inteligência Híbrida:** O **Cognitive Orchestrator (Umbrella)** atua como um roteador inteligente, selecionando dinamicamente o melhor motor de IA para a tarefa.
+*   **Aceleração de Inferência:** Para tarefas que exigem baixa latência e alta precisão, o sistema invoca **NVIDIA NIMs (NVIDIA Inference Microservices)**, que são microserviços otimizados para implantação rápida de IA em escala de produção.
+*   **Guardian AI:** Nossa **"Inteligência Antifrágil"** é potencializada por esta pilha (Nvidia NIM), permitindo que a IA execute políticas complexas de risco e conformidade em tempo real, mitigando a "caixa-preta" algorítmica ao ser integrada com a trilha Veritas.
 
-A **Inteligência Artificial (IA Ops)** é o coração da FoundLab, impulsionada pelo **modelo Gemini** do Google. Ela é totalmente integrada a todos os módulos da plataforma e permite personalização profunda para atender às necessidades específicas de cada cliente. As funções essenciais da IA incluem:
+### **3. Parceiros Estratégicos e Validação de Mercado**
 
-* **Coleta e Análise de Dados Automatizada e Inteligente:** Automatiza a coleta de informações de diversas fontes, identifica padrões complexos, detecta anomalias e revela oportunidades ocultas em tempo real.
-* **Painéis de Controle Interativos e Acionáveis:** Transforma *insights* da IA em representações visuais claras e personalizáveis, permitindo explorar dados em diferentes granularidades.
-* **Geração de Relatórios Personalizados e Sob Demanda:** Cria automaticamente diversos tipos de relatórios (operacionais, estratégicos, de conformidade, desempenho).
-* **Automatização de Fluxos de Trabalho Inteligente:** Identifica gargalos e otimiza processos de negócios, automatizando tarefas repetitivas.
-* **Alertas e Notificações Inteligentes e Proativas:** Monitora continuamente os dados e envia alertas contextuais e acionáveis sobre eventos significativos, desvios ou riscos potenciais.
+A estratégia de *Go-to-Market* (GTM) da FoundLab é baseada na validação institucional para penetrar o segmento Tier 1.
 
-A IA da FoundLab é construída sobre quatro pilares tecnológicos:
-
-* **Processamento de Linguagem Natural (PNL):** Decifra e interpreta vastos volumes de dados textuais para extrair *insights* valiosos, automatizando análises complexas.
-* **Machine Learning (ML):** Modelos que aprendem e aprimoram continuamente, fornecendo recomendações personalizadas e otimizando processos de forma autônoma.
-* **Visão Computacional (VC):** Analisa imagens/vídeos para identificação automática de padrões, objetos e anomalias visuais.
-* **Análise Preditiva e Prescritiva:** Prevê cenários futuros e prescreve ações específicas para alcançar os melhores resultados.
-
-Seus **motores de IA (Core Engines)** incluem:
-
-* **Cognitive Orchestrator:** Gerencia a orquestração de *prompts* e agentes de IA, com um *critic-loop* para validação sintática e semântica, e *guardrails* éticos e regulatórios.
-* **Parser de Precisão:** Extrai informações robustamente de tabelas e indicadores de documentos PDF (nacionais e internacionais), convertendo-os em JSON canônico.
-* **Analista Granular (CFA Persona):** Emula um analista financeiro, realizando avaliações detalhadas por ativo, considerando risco, volatilidade, liquidez, *rating* e eventos.
-* **Estratega Chefe:** Consolida informações para oferecer recomendações táticas e estratégicas, analisando concentração de portfólio, exposição cambial, cenários macroeconômicos, entre outros.
-* **Compliance Shield (Zero-Persistence):** Garante conformidade e segurança dos dados com processamento em memória e descarte automático de dados sensíveis, mantendo uma trilha de decisão auditável.
-* **SRE Antifrágil:** Projeta-se para prosperar sob estresse, com mecanismos como *throttling*, *healthchecks*, *retries* automáticos e *fallback* de modelo/infra (incluindo GPU).
-
-### Arquitetura e Infraestrutura Tecnológica
-
-A FoundLab é construída sobre a **infraestrutura robusta e escalável do Google Cloud**, aproveitando uma gama de serviços gerenciados para garantir alta disponibilidade, segurança e desempenho. Sua arquitetura é **modular e baseada em microsserviços**, permitindo flexibilidade, escalabilidade (horizontal e vertical), manutenção simplificada e agilidade no desenvolvimento.
-
-**Serviços GCP utilizados:**
-
-* **Cloud Run:** Para implantação e escalabilidade de contêineres sem servidor, ajustando-se dinamicamente à demanda.
-* **Document AI:** Para extração inteligente de dados e *insights* de documentos não estruturados.
-* **BigQuery:** *Data warehouse* corporativo para análise de grandes volumes de dados, relatórios, armazenamento de longo prazo e ETL.
-* **Pub/Sub:** Serviço de mensagens assíncronas para comunicação desacoplada entre componentes e processamento assíncrono.
-* **Cloud SQL (PostgreSQL):** Banco de dados relacional gerenciado para armazenamento de dados estruturados e transacionais.
-* **Secret Manager:** Gerenciamento seguro de segredos e credenciais.
-* **Cloud Armor:** Proteção contra ataques DDoS e WAF (Web Application Firewall) na borda da rede.
-* **VPC Service Controls (VPC-SC):** Criação de perímetros de segurança em torno dos serviços do Google Cloud.
-* **Vertex AI:** Plataforma unificada de MLOps para orquestrar e gerenciar o ciclo de vida dos fluxos de trabalho de IA/ML, integrando Document AI e aplicando lógica de pontuação/conformidade.
-* **Cloud Storage (GCS):** Para *buckets* de *upload* de documentos e *logs* de auditoria.
-* **Memorystore (Redis):** Cache de alta velocidade para otimização de desempenho e redução de latência.
-
-**Tecnologias de Frontend e Backend:**
-
-* **Frontend:** Desenvolvido com **React com TypeScript**, visando uma interface fluida, reativa e robusta. Utiliza também **Vite, TailwindCSS** e **Recharts** para gráficos. O *hosting* é feito via Vercel ou Firebase Hosting.
-* **Backend:** Implementado em **Python com Flask**, com a inteligência central residindo no motor de extração com o modelo **Gemini 1.5-flash** do Google, utilizando um *responseSchema* JSON detalhado para previsibilidade e precisão. Inclui um módulo **seal_decision.py** para auditoria automática e validação, e uma **fallback_logic.py** inteligente para re-tentativas com diferentes *prompts*, modelos ou OCR em caso de falha.
-
-**Outros aspectos arquiteturais:**
-
-* **Contêineres (Docker):** Encapsulamento de aplicações e dependências para consistência em qualquer ambiente.
-* **Orquestração (Kubernetes):** Gerencia a complexidade e a escala de contêineres, garantindo alta disponibilidade, escalabilidade elástica e implantação contínua.
-* **Aceleração de Hardware (NVIDIA):** Uso de GPUs e NVIDIA Inference Microservices (NIM) para processamento intensivo de dados e execução de algoritmos complexos de IA, garantindo rapidez e precisão.
-
-### Performance e Segurança
-
-A FoundLab estabeleceu metas rigorosas de latência: **inferior a 520 milissegundos (ms)** para requisições síncronas (pré-análise) e **menos de 3 minutos por documento** para processamento assíncrono completo. A arquitetura de segurança é um pilar fundamental, permeando todas as camadas. Inclui:
-
-* **Criptografia de dados em trânsito e em repouso** (TLS 1.3 e AES-256).
-* **Autenticação Multifator (MFA)** e **Controle de Acesso Baseado em Funções (RBAC)** com granularidade por cliente e perfil.
-* **Monitoramento contínuo** para detectar e responder a atividades suspeitas.
-* **Auditorias de segurança regulares** e testes de penetração.
-* **Policy-as-Code com OPA (Open Policy Agent)** para definir políticas de segurança de forma centralizada e automatizada.
-* **Gerenciamento de Segredos e Chaves** (Secret Manager e KMS) com rotação periódica de chaves.
-* **Prevenção de Perda de Dados (DLP) opcional** para inspecionar e bloquear vazamento de informações sensíveis.
-
-### Filosofia "by-design" e Conformidade
-
-A FoundLab adota uma cultura "**by-design**" visando transformar a confiança em um componente inerente, programável e auditável da infraestrutura financeira. Isso elimina o "custo invisível da desconfiança". Os elementos-chave dessa filosofia são:
-
-* **Confiança como Infraestrutura Programável e Auditável**.
-* **Arquitetura Modular Plug-and-Play e Não-Custodial**, atuando como um "*middleware* neutro" e "Suíça da infraestrutura reputacional".
-* **Veritas Protocol para Auditabilidade Criptográfica**, garantindo ações e decisões criptograficamente auditáveis com logs imutáveis.
-* **Governança Transparente e Ética Algorítmica**, incluindo um Conselho de Ética Algorítmica (CEA) e um Defensor Público Algorítmico (DPA).
-* **Guardian AI e o Flywheel Reputacional Antifrágil**, fortalecendo-se a cada interação e antecipando ameaças.
-* **Burn Engine** para prevenção ativa e execução proativa de riscos, realizando ações irreversíveis no ponto de risco.
-* **Signed Digital Identity (SDID)** como um artefato de identidade digital portátil e verificável.
-* **Camada de Integridade Silenciosa** que preenche a lacuna entre TradFi e Web3.
-* **Filosofia Open Source** para transparência e inovação.
-
-A plataforma possui **conformidade regulatória abrangente** com LGPD, BACEN/CVM e FATF/AML (quando aplicável), garantindo governança corporativa, segurança da informação e trilhas de auditoria detalhadas.
-
-Em suma, a Umbrella é uma *operação completa com IA** sofisticada, estratégica e robusta, que se posiciona no mercado de Venture Capital como uma empresa de "**Infraestrutura Confiável como Serviço**", entregando confiança computacional auditável e mitigando os riscos de alucinação e conformidade.
-
----
-
-## 🚀 Execução Local
-
-### Pré-requisitos
-
-* [Node.js](https://nodejs.org/en/) (versão 20.x ou superior)
-
-* [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-
-### Passos
-
-1. **Clone o repositório:**
-
-    ```bash
-    git clone <URL_DO_REPOSITORIO>
-    cd studio-main
-    ```
-
-2. **Instale as dependências:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Configure as Variáveis de Ambiente:**
-    * Renomeie o arquivo `.env.local.example` para `.env.local`.
-    * Preencha as variáveis de ambiente com suas chaves de API e configurações do Firebase/GCP.
-
-4. **Execute o servidor de desenvolvimento:**
-
-    ```bash
-    npm run dev
-    ```
-
-5. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver a aplicação.
-
----
-
-<div align="center">
-  <p><strong>FoundLab</strong> | Transforming documents into dynamic, trustworthy assets.</p>
-</div>
+*   **Validação Institucional:** A FoundLab já está operando com sucesso dentro do ecossistema **BTG Pactual** (através da **Elitte Capital/Necton**), validando o *product-market fit* em um ambiente de alto risco regulatório.
+*   **Prova de Valor:** A implementação no ecossistema BTG resultou em uma redução de **98,7%** no tempo de processamento de compliance (de 21 horas para 16 minutos) e uma redução de **94%** na taxa de erro humano, quantificando o **Alpha Operacional**.
+*   **Estratégia de Escala (Modelo Trilateral):** Para hiper-escala, utilizamos um modelo de parceria trilateral via **Google Cloud Marketplace**.
+    1.  **Google Cloud:** Fornece a plataforma, incentivos financeiros (**CUDs**) e co-venda.
+    2.  **FoundLab (ISV):** Fornece o software principal (Veritas) e suporte Nível 3.
+    3.  **2RP (Revenda/Implementação):** Atua como a força de vendas local (*"feet-on-the-street"*) e fornece serviços de implementação e suporte Nível 1 e 2.
