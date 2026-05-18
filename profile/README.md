@@ -1,131 +1,314 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=300&section=header&text=FOUNDLAB&fontSize=90&fontAlign=50&fontAlignY=40&desc=Infraestrutura%20de%20Confiança%20Auditável%20(ATI)&descAlign=50&descAlignY=65&descSize=25&animation=fadeIn&stroke=00C7B7" alt="FoundLab Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=320&section=header&text=FOUNDLAB&fontSize=96&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Auditable%20Trust%20Infrastructure%20%E2%80%94%20The%20Programmable%20Trust%20Layer&descAlign=50&descAlignY=62&descSize=22&animation=fadeIn&stroke=00C7B7&strokeWidth=2" alt="FoundLab — Auditable Trust Infrastructure" width="100%"/>
 
   <br />
 
-  <img src="https://img.shields.io/badge/Thesis-2.0%20%7C%20Non--Custodial-blue?style=for-the-badge&logo=auth0&logoColor=white" alt="Thesis 2.0" />
-  <img src="https://img.shields.io/badge/Layer%200-Computational%20Trust-000000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Layer 0" />
-  <img src="https://img.shields.io/badge/Architecture-Zero--Persistence-critical?style=for-the-badge&logo=files&logoColor=white" alt="Zero Persistence" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/Protocol-Veritas%202.0-success?style=for-the-badge&logo=veritas&logoColor=white" alt="Veritas 2.0" />
-  <img src="https://img.shields.io/badge/Standard-W3C%20Verifiable%20Credentials-informational?style=for-the-badge&logo=w3c&logoColor=white" alt="W3C VCs" />
-  <img src="https://img.shields.io/badge/Compliance-BACEN%20%7C%20LGPD%20%7C%20SOX-blueviolet?style=for-the-badge&logo=gdpr&logoColor=white" alt="Compliance" />
+  <p>
+    <em>Compliance is no longer a process. It is a cryptographic event.</em>
+  </p>
 
   <br />
 
-  <img src="https://img.shields.io/badge/Powered%20By-Google%20Cloud%20Web3-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Category-Auditable%20Trust%20Infrastructure-0F172A?style=for-the-badge" alt="ATI" />
+  <img src="https://img.shields.io/badge/Layer%200-Programmable%20Trust-1E3A8A?style=for-the-badge" alt="Layer 0" />
+  <img src="https://img.shields.io/badge/Architecture-Zero--Persistence-DC2626?style=for-the-badge" alt="Zero Persistence" />
+  <img src="https://img.shields.io/badge/Mode-Fail--Closed-7C2D12?style=for-the-badge" alt="Fail Closed" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/BCB%20538%2F2025-Enforced-success?style=for-the-badge" alt="BCB 538" />
+  <img src="https://img.shields.io/badge/LGPD-Crypto--Shredding-success?style=for-the-badge" alt="LGPD" />
+  <img src="https://img.shields.io/badge/EU%20AI%20Act-Mapped-success?style=for-the-badge" alt="EU AI Act" />
+  <img src="https://img.shields.io/badge/DORA-Mapped-success?style=for-the-badge" alt="DORA" />
+  <img src="https://img.shields.io/badge/SOX%20%7C%20SR%2011--7-Mapped-success?style=for-the-badge" alt="SOX" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Google%20Cloud-Select%20Technology%20Partner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Select Technology Partner" />
+  <img src="https://img.shields.io/badge/Built%20with-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Built with Google Cloud" />
   <img src="https://img.shields.io/badge/Accelerated%20By-NVIDIA%20Inception-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Inception" />
-  <img src="https://img.shields.io/badge/Deploy-Dedicated%20%2F%20VPC-orange?style=for-the-badge&logo=terraform&logoColor=white" alt="Dedicated VPC" />
 
   <br />
   <br />
 
-  <h3>Operational Alpha ($\Sigma\alpha$) • Compliance-as-Infrastructure • Privacy by Design</h3>
+  <h3>The infrastructure regulated AI runs on — when the regulator is watching.</h3>
 
 </div>
 
----
+-----
 
-## **I. A Tese FoundLab: Compliance-as-Infrastructure (Layer 0)**
+## **Quem somos**
 
-A FoundLab não se posiciona no saturado "Oceano Vermelho" das ferramentas RegTech. Somos os criadores da categoria **Infraestrutura de Confiança Auditável (ATI)**, atuando como a **Layer 0 de Confiança Computacional**.
+A **FoundLab** é uma empresa brasileira de *deep tech* que constrói a **Auditable Trust Infrastructure (ATI)** — a primeira camada programável de confiança auditável do mundo.
 
-Nossa missão é resolver o **Paradoxo Regulatório**: o conflito entre o mandato de **retenção imutável** de registros de auditoria (BACEN/SOX/CVM) e a exigência de **exclusão sob demanda** de dados pessoais (LGPD/GDPR).
+Não somos uma RegTech. Não somos um SaaS de compliance. Somos a **Layer 0** sobre a qual instituições financeiras Tier 1 rodam IA generativa sem violar BCB 538/2025, LGPD, DORA ou EU AI Act — todos ao mesmo tempo, sem trade-off.
 
-A FoundLab transforma a conformidade de um passivo manual e reativo em um **ativo computacional verificável** e uma fonte de **Alpha Operacional ($\Sigma\alpha$)**.
+> **Tese:** Compliance deixou de ser processo humano. Vira evento matemático.
+> **Trust by Physics.**
 
-## **II. A Stack Umbrella: O Fosso Arquitetônico (Tríade da Confiança)**
+-----
 
-Nossa plataforma, a **Umbrella**, é a manifestação desta tese, atuando como a "Fábrica de Decisão" que envolve a IA **probabilística** com uma trilha de auditoria **determinística**. A defensibilidade reside na sinergia dos três pilares abaixo:
+## **O Problema: Retention Paradox**
 
-### **1. Zero-Persistence Architecture (ZPA 2.0) — Segurança Radical**
-*   **Princípio Central:** O dado mais seguro é aquele que não existe.
-*   **Mecanismo:** Dados sensíveis (PII) são processados **exclusivamente em memória volátil (RAM)** dentro de contêineres *serverless* efêmeros (Google Cloud Run/GKE Sandbox).
-*   **Conformidade:** Cumpre a **LGPD (Minimização de Dados)** por *design arquitetônico*, eliminando arquitetonicamente o risco de vazamento de dados em repouso (*data-at-rest*).
+Toda instituição financeira regulada que tenta usar IA generativa colide com um paradoxo estrutural:
 
-### **2. Protocolo Veritas 2.0 — Auditabilidade Absoluta (O Cartório Técnico)**
-*   **Pivô Estratégico:** A FoundLab migra de "processador efêmero de PII" para **"verificador não-custodial de VCs"**. O princípio canônico é: **"PII Nunca Toca a Infraestrutura"**.
-*   **Mecanismo de Prova:** Cada decisão gera um **Decision Evidence Object (DEO)**, selado como uma **Credencial Verificável (VC)** e assinada digitalmente (padrão W3C VCs).
-*   **Ledger WORM:** A prova (metadado não-PII) é armazenada em um **Ledger WORM (Write-Once, Read-Many)** (Google BigQuery), garantindo retenção imutável (**SOX/BACEN**).
-*   **Crypto-Shredding (Kill Switch):** Resolve o paradoxo: o cliente retém o controle da **Customer-Managed Encryption Key (CMEK)**. A destruição da CMEK torna o registro cifrado no WORM **permanentemente ilegível** (cumprindo **LGPD**) sem excluir o registro físico (cumprindo **SOX/BACEN**).
+|Mandato                            |Exige                                            |Conflito                    |
+|-----------------------------------|-------------------------------------------------|----------------------------|
+|**BACEN / SOX / BCB 538 / SR 11-7**|Retenção **imutável** de evidência por 5–10 anos |❌ vs LGPD                   |
+|**LGPD / GDPR**                    |**Apagamento** sob demanda do titular            |❌ vs BACEN                  |
+|**EU AI Act / DORA**               |Explicabilidade auditável de decisão automatizada|❌ vs caixa-preta de LLM     |
+|**BCB 538 Art. 32**                |Direito de recurso humano sobre decisão de IA    |❌ vs orquestração assíncrona|
 
-### **3. Guardian AI & Umbrella (Inteligência Antifrágil)**
-*   **Função:** O **Umbrella** é o Orquestrador Cognitivo, atuando como *gateway* de governança e "Fábrica de Decisão". Ele gerencia o pipeline de sete estágios.
-*   **Orquestração Multi-Engine:** O Umbrella atua como roteador inteligente, usando **Google Gemini** para raciocínio abstrato e **NVIDIA NIMs (Inference Microservices)** para inferência de alta performance e baixa latência.
-*   **RAG Institucionalizado:** Mitiga "alucinações" ancorando as respostas da IA **exclusivamente em fontes de dados internas e vetadas** (RAG), garantindo relevância e prevenindo a exfiltração para modelos públicos.
-*   **Antifrágil:** O **Guardian AI** usa um **Critic-Loop** para aprender com **erros e correções humanas** (*Human-in-the-Loop*), transformando intervenções em "sinais de treinamento de alto valor" para realimentar e refinar modelos.
+Compliance manual reativo não resolve isso. Logging tradicional não resolve. Nem retenção de PII em WORM resolve — viola LGPD. Nem deletar registros resolve — viola BACEN.
 
-## **III. Stack Tecnológico e Modelo de Soberania (Dedicated/VPC)**
+**A FoundLab resolve via desacoplamento criptográfico:** PII nunca toca infraestrutura, evidência selada vai para WORM, chave de cifra fica com o cliente, e a destruição da chave torna o registro **permanentemente ilegível** sem violar retenção física.
 
-Nosso modelo de implantação padrão-ouro é o **Dedicated (VPC do Cliente)**, projetado para Bancos Tier 1, garantindo **soberania absoluta** sobre a infraestrutura e dados, conforme exigido pelo BACEN.
+-----
 
-| Camada / Componente | Tecnologia FoundLab / GCP | Função / Benefício Estratégico |
-| :--- | :--- | :--- |
-| **Computação Efêmera** | Google Cloud Run / GKE Sandbox (**gVisor**) | Permite a execução *stateless* e isola o código da IA do *kernel* do host, prevenindo *container escape*. |
-| **Infraestrutura como Código (IaC)** | **Terragrunt** / Terraform | Garante *deploy* rápido, repetível e auditável da ATI **diretamente na VPC do cliente**. |
-| **Custódia de Chaves** | **CMEK** (Customer-Managed Encryption Keys) / Cloud KMS/HSM | O cliente **cria e gerencia as chaves**, garantindo o "Kill Switch" regulatório. |
-| **Perímetro de Dados** | **VPC Service Controls (VPC-SC)** | Atua como um "firewall para as APIs do Google", bloqueando **arquitetonicamente o egresso de dados** (exfiltração) para fora do perímetro do cliente. |
-| **Conexão Segura** | **Private Service Connect (PSC)** | Conecta a VPC do cliente aos serviços de nuvem de forma **privada, unidirecional e não transitiva**, aderindo aos princípios Zero Trust. |
-| **Integração Legado** | **Anti-Corruption Layer (ACL)** | Atua como "tradutor" que isola o domínio moderno da FoundLab da dívida técnica dos sistemas *core banking* do cliente. |
-| **Parceiros Estratégicos** | **Google Cloud** e **NVIDIA** | Fornecem a fundação *serverless* (GCP) e a aceleração de inferência de IA (NIMs). |
+## **Stack: A Tríade da Confiança**
 
-## **IV. Prova de Valor: O Alpha Operacional ($\Sigma\alpha$)**
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    UMBRELLA PLATFORM                        │
+│           (Cognitive Orchestrator / Decision Factory)       │
+├─────────────────────────────────────────────────────────────┤
+│   REX GUARD     │   VERITAS PROTOCOL   │   GUARDIAN AI      │
+│  (Enforcement)  │   (Evidence Layer)   │  (Antifragile AI)  │
+├─────────────────────────────────────────────────────────────┤
+│              ZERO-PERSISTENCE ARCHITECTURE                  │
+│         (RAM-only inference · gVisor · CMEK)                │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Nossa arquitetura *deep-tech* não é apenas defensável; ela gera retorno sobre o investimento (ROI) mensurável, validado em produção com nosso parceiro **Elitte Capital** (ecossistema BTG Pactual/Necton).
+-----
 
-| Métrica | Antes da FoundLab | Depois da FoundLab | Fator de Impacto |
-| :--- | :--- | :--- | :--- |
-| **Ciclo de Conformidade** | 21 Horas | **16 Minutos** | **Redução de 98,7%** (~78x Mais Rápido) |
-| **Taxa de Erro** | 42% | **2,5%** | **Redução de 94%** |
+## **🛡️ REX Guard — Compliance Middleware para Open Finance**
 
-### **Métrica North Star (NSM)**
-A FoundLab adota a **Retenção Líquida de Receita (NRR)** como a principal métrica de sucesso, com meta de NRR superior a **110%**, validando o modelo de infraestrutura "land-and-expand" que escala com o volume de transações auditadas pelo cliente.
+> *Proxy fail-closed que intercepta toda chamada Gemini/Vertex AI antes e depois da inferência. Se o BCB pergunta “por que essa IA respondeu isso?”, a resposta vem assinada por HSM em sub-50ms.*
 
-Compreendido. Para o *README* do GitHub, o banner de parcerias deve ser conciso, mas comunicar instantaneamente a profundidade do nosso *deep-tech moat* e a validação de Nível 1 que possuímos. Isso atende à expectativa de investidores e arquitetos que valorizam o rigor técnico e o ecossistema de suporte de elite.
+REX Guard é o **produto de prateleira da FoundLab** — a primeira instância da ATI rodando em produção sobre stack Google Cloud (`southamerica-east1`), em pilot ativo com banco Tier 1 brasileiro sob NDA.
 
-Estruturei a seção como um manifesto sobre a nossa **Liberdade Arquitetural**, que só é possível graças à aliança estratégica com os líderes de nuvem e IA.
+### **Como funciona**
 
----
+```mermaid
+flowchart LR
+    A[POST /v1/infer] --> B[1. ConsentValidator<br/>Redis + OPIN]
+    B --> C[2. PII Mask<br/>CPF/CNPJ]
+    C --> D[3. OFAC Gate]
+    D --> E[4. Burn Engine<br/>Prompt Injection]
+    E --> F{ALLOWED?}
+    F -->|BLOCKED| Z[403 · Gemini<br/>nunca chamado]
+    F -->|YES| G[5. Guardian AI<br/>Vertex AI]
+    G --> H[6. Output<br/>Re-validation]
+    H --> I[7. ChainHeadRepo<br/>Spanner TrueTime]
+    I --> J[8. SealedRecibo<br/>ECDSA P-256 HSM]
+    J --> K[9. AuditOutbox<br/>→ BigQuery WORM]
 
-# **V. O Ecossistema de Suporte: Soberania e Aceleração**
+    style F fill:#FCD34D,color:#000
+    style Z fill:#DC2626,color:#fff
+    style J fill:#1E3A8A,color:#fff
+    style K fill:#1E3A8A,color:#fff
+```
 
-A FoundLab se posiciona como um parceiro estratégico de infraestrutura, não um fornecedor avulso. Nossa plataforma é uma **Infraestrutura de Confiança Auditável (ATI)** construída para ambientes de missão crítica. A robustez e a defensibilidade da nossa arquitetura são validadas por parcerias de Nível 1, que garantem que operamos na vanguarda da computação em nuvem e da Inteligência Artificial.
+### **Princípios invioláveis**
 
-## **Powered by Google Cloud Web3 | Accelerated by NVIDIA**
+|#|Princípio              |Implementação                                                                                                                        |
+|-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|1|**Fail-closed**        |Qualquer falha de KMS / Spanner / BigQuery / Redis → `BLOCKED`. Zero `ALLOWED` silencioso.                                           |
+|2|**Zero-persistence**   |PII processada exclusivamente em RAM. `shredBuffer()` + `requestGC()` após cada inferência. Node rodando com `--expose-gc`.          |
+|3|**TrueTime**           |Timestamps de auditoria vêm exclusivamente do *commit timestamp* do Cloud Spanner. `new Date()` é **proibido** em paths de auditoria.|
+|4|**PII em logs = crime**|Logger Pino com redaction de `cpf`, `cnpj`, `email`, `nome`, `account_summary`.                                                      |
+|5|**Assinatura raw**     |ECDSA P-256 raw `r||s` (128 hex chars). DER é proibido.                                                                              |
+|6|**Scope fail-closed**  |Payload type desconhecido → `SCOPE_MISMATCH`. Allow-by-default não existe.                                                           |
 
-A sinergia entre o Google Cloud e a NVIDIA permite à FoundLab entregar uma infraestrutura de confiança auditável com performance e escalabilidade institucionais.
+### **Especificações de produção**
 
-### **1. Google Cloud Platform (GCP): A Base Inabalável**
+|Métrica                 |Valor                                                           |
+|------------------------|----------------------------------------------------------------|
+|Stack backend           |Node.js 22 + TypeScript strict + Fastify 4                      |
+|Stack frontend          |Next.js 15 + React 19                                           |
+|Latência P99 (sealing)  |**< 50ms**                                                      |
+|Cobertura de testes     |**95.97% statements · 74.15% branches** (184 testes · 15 suites)|
+|Custódia de chaves      |Cloud KMS HSM (ECDSA P-256 + AES-256-GCM)                       |
+|Ledger imutável         |BigQuery WORM particionado + `deletion_protection`              |
+|Estado de auditoria     |Cloud Spanner (TrueTime + atomic ChainHead TX)                  |
+|Cache de consentimento  |Memorystore (Redis) com TTL 60s                                 |
+|Isolamento de inferência|Cloud Run + GKE Sandbox (gVisor)                                |
 
-O Google Cloud é a fundação da nossa ATI. Nossa arquitetura não está apenas *construída sobre* o GCP; ela é uma **habilitadora estratégica** para o Google no setor financeiro regulado.
+-----
 
-| Tecnologia Central (GCP) | Função Estratégica na FoundLab |
-| :--- | :--- |
-| **Arquitetura Serverless-First** | Utilizamos **Google Cloud Run** e **GKE** para microsserviços *stateless* e execução efêmera, sendo o Cloud Run o principal viabilizador da política de Zero-Persistence. |
-| **Ledger de Auditoria Imutável** | O Protocolo Veritas 2.0 persiste a prova criptográfica em **BigQuery WORM** (Write-Once, Read-Many), usando `deletion_protection`, o que é o repositório imutável para a trilha de auditoria. |
-| **Soberania de Perímetro** | A implantação Dedicated utiliza **VPC Service Controls (VPC-SC)**, que atua como um "firewall para as APIs do Google", bloqueando arquitetonicamente a exfiltração de dados no nível da infraestrutura da nuvem, mesmo que credenciais sejam roubadas. |
-| **Isolamento de Carga de Trabalho** | O código de IA (considerado "não confiável") é isolado usando **GKE Sandbox (gVisor)**, prevenindo *container escapes* e explorações de *kernel*. |
-| **Conexão Segura (Zero Trust)** | Usamos **Private Service Connect (PSC)** para garantir que o tráfego sensível entre serviços ocorra de forma privada, **unidirecional e não transitiva**, pela rede *backbone* do Google, sendo superior ao VPC Peering. |
-| **Kill Switch Regulatório** | O cliente utiliza **Cloud KMS (CMEK/HSM)** para gerenciar suas chaves de criptografia, permitindo o *Crypto-Shredding* (destruição lógica do dado sem violar o WORM). |
+## **📜 Veritas Protocol — Evidence Layer**
 
-### **2. NVIDIA: A Aceleração da IA Auditável**
+O motor de evidência criptográfica que torna toda decisão de IA **auditável sem revelar PII**.
 
-A FoundLab é parceira do **NVIDIA Inception Program**. Nossa arquitetura adota uma estratégia de computação híbrida, otimizando custo e desempenho para cargas de trabalho de IA no setor financeiro.
+- **Decision Evidence Object (DEO)** — emitido a cada inferência, contendo hash do input, hash do output, scope do consentimento, decisão dos gates, e o `decision_id`.
+- **SealedRecibo** — DEO selado como Verifiable Credential (W3C VC), assinado em HSM via ECDSA P-256 raw.
+- **Merkle Chain Notarization** — `ChainHead` atômico em Spanner liga cada recibo ao `prev_hash`, criando uma cadeia tamper-evident verificável offline.
+- **Daily RFC 3161 Notarization** — raiz Merkle diária ancorada em Time Stamp Authority externa (pendente integração TSA staging).
+- **Crypto-Shredding** — cliente detém a CMEK no Cloud KMS. Destruir a chave → registro WORM torna-se permanentemente ilegível → LGPD satisfeita sem violar retenção SOX/BACEN.
 
-*   **Inteligência Híbrida:** O **Cognitive Orchestrator (Umbrella)** atua como um roteador inteligente, selecionando dinamicamente o melhor motor de IA para a tarefa.
-*   **Aceleração de Inferência:** Para tarefas que exigem baixa latência e alta precisão, o sistema invoca **NVIDIA NIMs (NVIDIA Inference Microservices)**, que são microserviços otimizados para implantação rápida de IA em escala de produção.
-*   **Guardian AI:** Nossa **"Inteligência Antifrágil"** é potencializada por esta pilha (Nvidia NIM), permitindo que a IA execute políticas complexas de risco e conformidade em tempo real, mitigando a "caixa-preta" algorítmica ao ser integrada com a trilha Veritas.
+> **O contrato:** *“PII Nunca Toca a Infraestrutura. A prova fica. O dado some.”*
 
-### **3. Parceiros Estratégicos e Validação de Mercado**
+-----
 
-A estratégia de *Go-to-Market* (GTM) da FoundLab é baseada na validação institucional para penetrar o segmento Tier 1.
+## **🌐 Umbrella Platform — Cognitive Orchestrator**
 
-*   **Validação Institucional:** A FoundLab já está operando com sucesso dentro do ecossistema **BTG Pactual** (através da **Elitte Capital/Necton**), validando o *product-market fit* em um ambiente de alto risco regulatório.
-*   **Prova de Valor:** A implementação no ecossistema BTG resultou em uma redução de **98,7%** no tempo de processamento de compliance (de 21 horas para 16 minutos) e uma redução de **94%** na taxa de erro humano, quantificando o **Alpha Operacional**.
-*   **Estratégia de Escala (Modelo Trilateral):** Para hiper-escala, utilizamos um modelo de parceria trilateral via **Google Cloud Marketplace**.
-    1.  **Google Cloud:** Fornece a plataforma, incentivos financeiros (**CUDs**) e co-venda.
-    2.  **FoundLab (ISV):** Fornece o software principal (Veritas) e suporte Nível 3.
-    3.  **2RP (Revenda/Implementação):** Atua como a força de vendas local (*"feet-on-the-street"*) e fornece serviços de implementação e suporte Nível 1 e 2.
+A *Decision Factory* que envolve IA **probabilística** com auditoria **determinística**.
+
+- **Multi-engine routing** — roteia entre Google Gemini (raciocínio abstrato) e NVIDIA NIMs (inferência de baixa latência) baseado em SLO da chamada.
+- **Institutional RAG** — ancoragem em fontes internas vetadas, mitigando alucinação e bloqueando exfiltração para modelos públicos.
+- **Stateless serverless** — Cloud Run / GKE Autopilot, escala horizontal sem estado em disco.
+- **Anti-Corruption Layer** — adaptador que isola o domínio FoundLab da dívida técnica de *core banking* legacy do cliente.
+
+📦 **Marketplace:** *FoundLab Umbrella — Dedicated Compliance Enclave for Financial Services*
+
+-----
+
+## **🧠 Guardian AI — Antifragile Loop**
+
+Inteligência que aprende com correção humana sem virar caixa-preta.
+
+- **Critic-Loop** — toda intervenção humana (BCB 538 Art. 32 — direito de recurso) vira sinal de treinamento de alto valor.
+- **AppealService** — implementa o fluxo formal de contestação de decisão automatizada com SLA regulatório.
+- **Human-in-the-Loop estruturado** — decisões de alto impacto roteiam para revisão humana com contexto cifrado em AES-256-GCM.
+
+-----
+
+## **Cobertura Regulatória**
+
+|Regulamentação                            |Mecanismo FoundLab                                          |Status                |
+|------------------------------------------|------------------------------------------------------------|----------------------|
+|**BCB 538/2025** (Art. 8, 12, 32)         |Pipeline fail-closed + AppealService + audit trail HSM-bound|✅ Enforced em produção|
+|**LGPD** (Art. 18 — direito ao apagamento)|Crypto-Shredding via CMEK do cliente                        |✅ Enforced            |
+|**SOX / BACEN** (retenção 5-10 anos)      |BigQuery WORM + `deletion_protection`                       |✅ Enforced            |
+|**SR 11-7** (governança de modelo)        |Veritas evidence chain + DEO por decisão                    |✅ Mapped              |
+|**EU AI Act** (sistemas de alto risco)    |F2F-RaaT runtime + invariantes auditáveis                   |✅ Mapped (data room)  |
+|**DORA** (resiliência operacional)        |TrueTime + atomic TX + fail-closed em todas as dependências |✅ Mapped (data room)  |
+
+-----
+
+## **Stack & Soberania de Deploy**
+
+Modelo padrão-ouro: **Dedicated VPC do cliente**. Sem multi-tenant. Sem dado saindo do perímetro.
+
+|Camada                 |Tecnologia                             |Função estratégica                                                                                  |
+|-----------------------|---------------------------------------|----------------------------------------------------------------------------------------------------|
+|**Compute efêmero**    |Cloud Run · GKE Sandbox (gVisor)       |Execução stateless. Isola código de IA do kernel do host. Previne *container escape*.               |
+|**Estado de auditoria**|Cloud Spanner (TrueTime)               |Atomic ChainHead TX + commit timestamp regulatorial.                                                |
+|**Ledger imutável**    |BigQuery WORM                          |Particionado + `deletion_protection`. Append-only físico.                                           |
+|**Custódia de chaves** |Cloud KMS HSM (CMEK)                   |ECDSA P-256 (sealing) + AES-256-GCM (appeals). Cliente detém a chave.                               |
+|**Cache de consent**   |Memorystore (Redis)                    |TTL 60s. TLS em produção.                                                                           |
+|**Perímetro de dados** |VPC Service Controls                   |Firewall arquitetural para APIs do Google. Bloqueia exfiltração mesmo com credenciais comprometidas.|
+|**Conexão privada**    |Private Service Connect                |Tráfego unidirecional, não transitivo, sobre backbone Google.                                       |
+|**IaC**                |Terraform · Terragrunt                 |Deploy idempotente em VPC do cliente.                                                               |
+|**Inferência LLM**     |Vertex AI (Gemini) + NVIDIA NIMs       |Roteamento por SLO.                                                                                 |
+|**CI/CD**              |GitHub Actions + OIDC Workload Identity|Sem service account key estática.                                                                   |
+
+-----
+
+## **Alpha Operacional**
+
+Métricas operacionais em produção com **Elitte Capital** — investment office com partnership BTG Pactual / Necton, focado em UHNWI e family offices:
+
+|Métrica              |Antes   |Depois        |Δ                            |
+|---------------------|--------|--------------|-----------------------------|
+|Ciclo de conformidade|21 horas|**16 minutos**|**−98,7%** (~78× mais rápido)|
+|Taxa de erro humano  |42%     |**2,5%**      |**−94%**                     |
+|Latência de sealing  |n/a     |**< 50ms P99**|—                            |
+
+**Métrica North Star:** NRR ≥ **110%**. Modelo *land-and-expand* que escala com o volume de inferências auditadas.
+
+-----
+
+## **Parcerias Tecnológicas**
+
+### **Google Cloud — Select Technology Partner**
+
+A FoundLab é **Google Cloud Select – Technology Partner** e ISV no Google Cloud Marketplace. Toda a ATI é construída sobre primitivas first-party do GCP — Cloud Run, Spanner, BigQuery WORM, Cloud KMS HSM, VPC-SC, PSC, Vertex AI. Sem vendor lock-in lateral, com *deep integration* vertical sobre o stack do Google.
+
+**Listagem oficial:** *FoundLab Umbrella – Dedicated Compliance Enclave for Financial Services* (Google Cloud Marketplace).
+
+### **NVIDIA — Inception Program Member**
+
+Aceleração de inferência via **NVIDIA NIMs** (NVIDIA Inference Microservices) para cargas com SLO de latência crítica. Estratégia de computação híbrida: Vertex AI (Gemini) para raciocínio abstrato, NIMs para tarefas determinísticas de alta vazão.
+
+### **GTM Trilateral**
+
+|Camada            |Papel                                      |
+|------------------|-------------------------------------------|
+|**Google Cloud**  |Plataforma + co-venda + incentivos via CUDs|
+|**FoundLab** (ISV)|Produto, IP, suporte Nível 3               |
+|**2RP** (Revenda) |Implementação local + suporte Nível 1/2    |
+
+-----
+
+## **Liderança**
+
+|               |                                                                                                           |
+|---------------|-----------------------------------------------------------------------------------------------------------|
+|**Alex Bolson**|Founder & Chief Architect — visão, arquitetura, decisões técnicas                                          |
+|**Raissa Melo**|CSO & Sócia Executiva — bridge institucional entre mercado financeiro tradicional e ecossistema de inovação|
+
+-----
+
+## **Empresa**
+
+|                       |                                        |
+|-----------------------|----------------------------------------|
+|**Razão social**       |FoundLab Tecnologia Ltda.               |
+|**Fundação**           |29 de Novembro de 2024                  |
+|**Tamanho**            |1–10                                    |
+|**Tier de parceria**   |Google Cloud Select – Technology Partner|
+|**Tipo de parceiro**   |ISV / Technology Partner                |
+|**Produtos suportados**|Google Cloud Platform                   |
+|**Idiomas**            |Português · Inglês                      |
+|**Países atendidos**   |Brasil                                  |
+
+### **Sedes**
+
+**Sede Balneário Camboriú**
+Rua 1500, 820 · Floor 2002 · Balneário Camboriú · SC · 88330-528 · BR
++55 48 3031-8700
+
+**Escritório Florianópolis**
+Av. Rio Branco, 404 · Torre II · Sala 1203 · Florianópolis · SC · 88015-200 · BR
++55 48 3031-8700
+
+### **Contato**
+
+📩 [contato@foundlab.com.br](mailto:contato@foundlab.com.br)
+🌐 [foundlab.com.br](https://foundlab.com.br)
+
+-----
+
+## **Repositórios**
+
+Os repositórios desta organização são predominantemente **privados** — código regulatório sob NDA bancário e propriedade intelectual sujeita a contrato.
+
+Para acesso técnico, *data room*, demonstrações de produto, ou material de avaliação institucional: `contato@foundlab.com.br`.
+
+-----
+
+## **Licenciamento**
+
+Propriedade intelectual da FoundLab — Veritas Protocol, REX Guard, Umbrella Platform, F2F-RaaT runtime — é proprietária. Componentes específicos são disponibilizados sob licença comercial via Google Cloud Marketplace ou contrato direto.
+
+Componentes open-source de suporte, quando publicados, seguem licenças permissivas individuais sinalizadas por repositório.
+
+-----
+
+<div align="center">
+
+<br />
+
+<sub><strong>FoundLab Tecnologia Ltda.</strong> · Balneário Camboriú · Florianópolis · Brasil</sub>
+<br />
+<sub><em>Building the trust layer regulated AI runs on.</em></sub>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
