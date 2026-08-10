@@ -1,0 +1,17 @@
+{
+  "name": "@foundlab/visual-capture-kit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FoundLab organizational visual capture kit for production and preview UI evidence.",
+  "scripts": {
+    "capture": "tsx src/capture.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "playwright": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

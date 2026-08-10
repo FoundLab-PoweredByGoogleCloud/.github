@@ -1,0 +1,103 @@
+name: FoundLab Visual Capture
+
+on:
+  workflow_call:
+    inputs:
+      url:
+        description: "Base production or preview URL to capture."
+        required: true
+        type: string
+      routes:
+        description: "Comma-separated routes to capture. Example: /,/login,/pricing"
+        required: false
+        default: ""
+        type: string
+      artifact-name:
+        description: "GitHub Actions artifact name."
+        required: false
+        default: "visual-capture"
+        type: string
+      wait-ms:
+        description: "Extra stabilization wait after navigation and readiness checks."
+        required: false
+        default: "2500"
+        type: string
+      full-page:
+        description: "Whether to capture full-page screenshots."
+        required: false
+        default: "true"
+        type: string
+      ready-selector:
+        description: "Optional selector that must be visible before screenshot capture."
+        required: false
+        default: ""
+        type: string
+      viewports-json:
+        description: "Optional JSON array of viewport targets."
+        required: false
+        default: ""
+        type: string
+      fail-fast:
+        description: "Stop after first failed capture."
+        required: false
+        default: "false"
+        type: string
+      kit-ref:
+        description: "Ref of FoundLab-PoweredByGoogleCloud/.github to checkout. Use main, a protected tag like v1, or a commit SHA."
+        required: false
+        default: "main"
+        type: string
+
+jobs:
+  capture:
+    name: Capture visual evidence
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      actions: read
+
+    defaults:
+      run:
+        working-directory: visual-capture-kit
+
+    steps:
+      - name: Checkout organizational automation repository
+        uses: actions/checkout@v4
+        with:
+          repository: FoundLab-PoweredByGoogleCloud/.github
+          ref: ${{ inputs.kit-ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Typecheck capture runner
+        run: npm run typecheck
+
+      - name: Capture screenshots
+        env:
+          CAPTURE_URL: ${{ inputs.url }}
+          CAPTURE_ROUTES: ${{ inputs.routes }}
+          CAPTURE_DIR: artifacts/screenshots
+          CAPTURE_WAIT_MS: ${{ inputs.wait-ms }}
+          CAPTURE_FULL_PAGE: ${{ inputs.full-page }}
+          CAPTURE_READY_SELECTOR: ${{ inputs.ready-selector }}
+          CAPTURE_VIEWPORTS_JSON: ${{ inputs.viewports-json }}
+          CAPTURE_FAIL_FAST: ${{ inputs.fail-fast }}
+        run: npm run capture
+
+      - name: Upload screenshots and manifest
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ${{ inputs.artifact-name }}
+          path: visual-capture-kit/artifacts/screenshots
+          if-no-files-found: error

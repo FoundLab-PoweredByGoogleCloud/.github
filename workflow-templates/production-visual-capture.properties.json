@@ -1,0 +1,11 @@
+{
+  "name": "FoundLab Production Visual Capture",
+  "description": "Capture production UI screenshots after deploy and upload them as GitHub Actions artifacts.",
+  "iconName": "foundlab-visual-capture",
+  "categories": [
+    "JavaScript",
+    "TypeScript",
+    "deployment",
+    "testing"
+  ]
+}
